@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamyamyamy&show_icons=true&locale=en" alt="flamyamyamy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flamyamyamy&" alt="flamyamyamy" /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/858011419760132137)](https://discord.com/users/858011419760132137)
+
