@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=flamyamyamy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flamyamyamy&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
 
 ## 🛠 Languages and Tools
 
