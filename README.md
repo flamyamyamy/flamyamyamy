@@ -9,7 +9,7 @@ Passionate about building scalable applications, cloud infrastructure, and moder
 ## 🛠 Tech Stack
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,cpp,cs,vue,apache,postgres,sql,aws,cloudflare" /></p>
+   <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,cpp,cs,vue,postgres,aws,cloudflare" /></p>
 
 ---
 
