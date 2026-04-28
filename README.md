@@ -10,7 +10,6 @@ Passionate about building scalable applications, cloud infrastructure, and moder
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,cpp,cs,html,vue,postgres,docker,kubernetes,aws,cloudflare" />
----
 
 ## 📊 GitHub Stats
 
